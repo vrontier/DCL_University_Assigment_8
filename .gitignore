@@ -1,0 +1,10 @@
+/.idea
+/bin
+/node_modules
+.dclignore
+Dockerfile
+LICENSE
+package.json
+package-lock.json
+README.md
+tsconfig.json
